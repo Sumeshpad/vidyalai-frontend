@@ -1,0 +1,14 @@
+/* AnnotationLayer.css */
+
+/* Styles for AnnotationLayer */
+.react-pdf__Page__annotations {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 20;
+  pointer-events: none;
+}
+
+/* Adjust any other styles as needed */
